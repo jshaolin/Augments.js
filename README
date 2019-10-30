@@ -1,0 +1,3 @@
+The Augments.js library is a build in progress, so far I've got Prefix Tries, Binary Trees, Interval Trees, Range Trees, k-d Trees, Red-Black Trees, (a, b) Trees and AVL Trees.
+Algorithms include the classic sort algorithm and string algorithms of Ukkonen's algorithm, Wagner–Fischer algorithm, Hunt–McIlroy algorithm and Substring index.
+Not ready to upload yet as I'm trying to have a bit more testing and incorporate a few more data structures before uploading the first release.
